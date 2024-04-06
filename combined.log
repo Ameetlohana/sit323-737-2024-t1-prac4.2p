@@ -1,0 +1,19 @@
+{"level":"info","message":"Server is listening on port 3040","service":"calculate-service"}
+{"level":"info","message":"Operation divide with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation exponent with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation sqrt with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation sqrt with parameters 25 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation mod with parameters 25 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation mod with parameters 10 and 2","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation mod with parameters 20 and 2","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation mod with parameters 12 and 2","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation mod with parameters 13 and 2","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
